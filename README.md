@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savan Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Integrated electronics engineer looking to sharpe my skills everyday </h3>
 
 - 🔭 I’m currently working on **Layout Simulation of pPIM Architecture**
 
